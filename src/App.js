@@ -1,11 +1,11 @@
 import React from 'react';
-
+import SimpleMenu from './Components/SimpleMenu.js'
 
 function App() {
   return (
-    <div className="App">
-    
-    </div>
+    <>
+      <SimpleMenu/>
+    </>
   );
 }
 
